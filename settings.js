@@ -3,9 +3,9 @@ const fs = require("fs")
 
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
-global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
+global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
 
 
@@ -24,7 +24,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['923220468570'] //ur owner number
 global.ownernomer = "923220468570" //ur owner number2
 global.ownername = "M　A　H　I　ツ" //ur owner name
-global.ytname = "YT: M　A　H　I　ツ" //ur yt chanel name
+global.ytname = "YT: your yt name" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
