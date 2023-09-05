@@ -48,9 +48,9 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Group Chats```
 
-- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
+- [`1st GC`](https://chat.whatsapp.com/EhONnP7pSOyKcAFgduexnA)
+- [`2nd GC`](https://chat.whatsapp.com/EhONnP7pSOyKcAFgduexnA)
+- [`3rd GC`](https://chat.whatsapp.com/EhONnP7pSOyKcAFgduexnA)
 
 # Setup For Deployment 👇
 
